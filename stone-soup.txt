@@ -3,5 +3,10 @@ Stone Soup
 Get a couldron
 Add water
 Put 3 stones in the water
+Wait until boiling
+Add salt and broth
+Add pasta
+Wait 8 minutes
+Remove from fireplace
 
 Put on fire until ready
